@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.234854d7.css",
-    "main.js": "/portfolio/static/js/main.0041e730.js",
-    "static/media/travel.png": "/portfolio/static/media/travel.3f1e703c327327f3a246.png",
-    "static/media/native-jobs.png": "/portfolio/static/media/native-jobs.aefeaca3698579f1e739.png",
-    "static/media/blog-1.svg": "/portfolio/static/media/blog-1.f765e1b0fff9fb909ed6db7a682ac4e2.svg",
-    "static/media/cryptoverse.png": "/portfolio/static/media/cryptoverse.9082016cd20b7f1e0ae0.png",
-    "static/media/Antara-Tewary-RA.pdf": "/portfolio/static/media/Antara-Tewary-RA.9eb8449074420c228adb.pdf",
-    "static/media/Antara_Tewary_ML.pdf": "/portfolio/static/media/Antara_Tewary_ML.49e6aaf86449619f4efa.pdf",
-    "static/media/avatar-1.svg": "/portfolio/static/media/avatar-1.09f66d2157a4760a7fb5d009f6ce19dd.svg",
-    "static/media/service-3.svg": "/portfolio/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
-    "static/media/service-2.svg": "/portfolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
-    "static/media/service-1.svg": "/portfolio/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
-    "static/media/dots-bg-dark.svg": "/portfolio/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
-    "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
-    "index.html": "/portfolio/index.html",
-    "main.234854d7.css.map": "/portfolio/static/css/main.234854d7.css.map",
-    "main.0041e730.js.map": "/portfolio/static/js/main.0041e730.js.map"
+    "main.css": "/Antara_Portfolio/static/css/main.6afe7092.css",
+    "main.js": "/Antara_Portfolio/static/js/main.ff8903cf.js",
+    "static/media/travel.png": "/Antara_Portfolio/static/media/travel.3f1e703c327327f3a246.png",
+    "static/media/native-jobs.png": "/Antara_Portfolio/static/media/native-jobs.aefeaca3698579f1e739.png",
+    "static/media/blog-1.svg": "/Antara_Portfolio/static/media/blog-1.f765e1b0fff9fb909ed6db7a682ac4e2.svg",
+    "static/media/cryptoverse.png": "/Antara_Portfolio/static/media/cryptoverse.9082016cd20b7f1e0ae0.png",
+    "static/media/Antara-Tewary-RA.pdf": "/Antara_Portfolio/static/media/Antara-Tewary-RA.9eb8449074420c228adb.pdf",
+    "static/media/Antara_Tewary_ML.pdf": "/Antara_Portfolio/static/media/Antara_Tewary_ML.49e6aaf86449619f4efa.pdf",
+    "static/media/avatar-1.svg": "/Antara_Portfolio/static/media/avatar-1.09f66d2157a4760a7fb5d009f6ce19dd.svg",
+    "static/media/service-3.svg": "/Antara_Portfolio/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
+    "static/media/service-2.svg": "/Antara_Portfolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
+    "static/media/service-1.svg": "/Antara_Portfolio/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/dots-bg-dark.svg": "/Antara_Portfolio/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/Antara_Portfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "index.html": "/Antara_Portfolio/index.html",
+    "main.6afe7092.css.map": "/Antara_Portfolio/static/css/main.6afe7092.css.map",
+    "main.ff8903cf.js.map": "/Antara_Portfolio/static/js/main.ff8903cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.234854d7.css",
-    "static/js/main.0041e730.js"
+    "static/css/main.6afe7092.css",
+    "static/js/main.ff8903cf.js"
   ]
 }
