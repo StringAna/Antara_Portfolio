@@ -28,23 +28,27 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Antara.
+              Hi. My name is Antara Tewary.
               <br />
               <br />
-              Grad Student at George Mason pursuing ML concentration, previously worked with Mercedes Benz Research and
-              Development India.
+              Currently, I am a graduate student at George Mason Univerisity pursuing Machine Learning concentration, graduating in May 2025.
+              <br/>
+              <br/>
+              I have worked with Mercedes Benz Research and Development India as a Software Consultant, where I was responsible for a 2 dimensional viewer which was used to visualize, annotate, and search drawing files of different file types and from different suppliers.
               <br />
+              <br/>
+              Currently, I work with the George Mason University Fiscal Services in their Automation Center of Excellence to transform existing business processes into automated workflows. I am responsible for developing and maintaining the automation workflows using UiPath and Power Query. It is absolutely phenomenal to see the end to end process of automation and how it can help in reducing the manual effort and increasing the efficiency of the process.
               <br />
-              Here are a few technologies I’ve been working with recently:
+              <br/>
             </p>
-            <ul className="about__list">
+            {/* <ul className="about__list">
+              <li>Python</li>
               <li>JavaScript (ES6+)</li>
               <li>TypeScript</li>
               <li>React</li>
               <li>Node.js</li>
-              <li>Postgres SQL</li>
-              <li>NestJS</li>
-            </ul>
+              <li>Postgres SQL</li>            
+            </ul> */}
             <button className="btn" onClick={downloadResume}>
               View SWE resume
             </button>
