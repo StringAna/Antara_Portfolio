@@ -1,3 +1,16 @@
+.star-format {
+  margin-bottom: 20px;
+}
+
+.star-details {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+.highlight {
+  font-weight: bold;
+  color: #88cfff; /* Choose your preferred color */
+}
+
 .tabs {
   height: 100%;
   display: flex;

@@ -1,12 +1,12 @@
-import React, { useState } from 'react'
-import './Resume.css'
-import { Tab, Tabs, TabList, TabPanel } from 'react-tabs'
-import Button from './Button'
+import React, { useState } from 'react';
+import './Resume.css';
+import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import Button from './Button';
 
-import WorkExperience from './WorkExperience'
+import WorkExperience from './WorkExperience';
 
 const Resume = () => {
-  const [tabIndex, setTabIndex] = useState(0)
+  const [tabIndex, setTabIndex] = useState(0);
 
   return (
     <section className="resume container section" id="resume">
@@ -22,33 +22,41 @@ const Resume = () => {
         >
           <TabList className="tab__list">
             {WorkExperience.map((experience, index) => {
-              const { id, company } = experience
+              const { id, company } = experience;
               return (
                 <Tab className="tab" key={`company-${id}`}>
                   <Button>{company}</Button>
                 </Tab>
-              )
+              );
             })}
           </TabList>
 
           {WorkExperience.map((experience) => {
-            const { id, yearsActive, title, information } = experience
+            const { id, yearsActive, title, information } = experience;
             return (
               <TabPanel className="tab__panel" key={`panel-${id}`}>
                 <h2 className="tab__panel-title">{title}</h2>
                 <p className="tab__panel-subtitle">{yearsActive}</p>
                 <ul className="tab__panel-list">
-                  {information.map((info, index) => {
-                    return <li key={`info-${index}`}>{info}</li>
-                  })}
+                  {information.map((info, index) => (
+                    <li key={`info-${index}`}>
+                      <span className="highlight">Situation:</span> {info.details[0]}
+                      <br />
+                      <span className="highlight">Task:</span> {info.details[1]}
+                      <br />
+                      <span className="highlight">Action:</span> {info.details[2]}
+                      <br />
+                      <span className="highlight">Result:</span> {info.details[3]}
+                    </li>
+                  ))}
                 </ul>
               </TabPanel>
-            )
+            );
           })}
         </Tabs>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Resume
+export default Resume;
