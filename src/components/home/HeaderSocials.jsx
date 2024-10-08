@@ -9,9 +9,9 @@ const HeaderSocials = () => {
                 <FaGithub />
             </a>
 
-            <a href='https://hashnode.com' className='home__social-link' target='_blank' rel='noreferrer'>
+            {/* <a href='https://hashnode.com' className='home__social-link' target='_blank' rel='noreferrer'>
                 <SiHashnode />
-            </a>
+            </a> */}
 
             {/* <a href='https://dev.to' className='home__social-link' target='_blank' rel='noreferrer'>
                 <FaDev />
