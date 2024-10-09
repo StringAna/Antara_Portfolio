@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Antara_Portfolio/static/css/main.6afe7092.css",
-    "main.js": "/Antara_Portfolio/static/js/main.ff8903cf.js",
-    "static/media/travel.png": "/Antara_Portfolio/static/media/travel.3f1e703c327327f3a246.png",
-    "static/media/native-jobs.png": "/Antara_Portfolio/static/media/native-jobs.aefeaca3698579f1e739.png",
+    "main.css": "/Antara_Portfolio/static/css/main.83caa039.css",
+    "main.js": "/Antara_Portfolio/static/js/main.2934572c.js",
+    "static/media/leetcode calendar.png": "/Antara_Portfolio/static/media/leetcode calendar.fb3d0f2769b2c557b3ca.png",
+    "static/media/coverletter.png": "/Antara_Portfolio/static/media/coverletter.6f19ac1fa8d153ee9f76.png",
+    "static/media/Antara_Tewary_Resume.pdf": "/Antara_Portfolio/static/media/Antara_Tewary_Resume.2cc134f312cf8abec60d.pdf",
+    "static/media/Workspace.png": "/Antara_Portfolio/static/media/Workspace.399fe5c684d225cda2b9.png",
     "static/media/blog-1.svg": "/Antara_Portfolio/static/media/blog-1.f765e1b0fff9fb909ed6db7a682ac4e2.svg",
-    "static/media/cryptoverse.png": "/Antara_Portfolio/static/media/cryptoverse.9082016cd20b7f1e0ae0.png",
-    "static/media/Antara-Tewary-RA.pdf": "/Antara_Portfolio/static/media/Antara-Tewary-RA.9eb8449074420c228adb.pdf",
     "static/media/Antara_Tewary_ML.pdf": "/Antara_Portfolio/static/media/Antara_Tewary_ML.49e6aaf86449619f4efa.pdf",
     "static/media/avatar-1.svg": "/Antara_Portfolio/static/media/avatar-1.09f66d2157a4760a7fb5d009f6ce19dd.svg",
     "static/media/service-3.svg": "/Antara_Portfolio/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
@@ -15,11 +15,11 @@
     "static/media/dots-bg-dark.svg": "/Antara_Portfolio/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
     "static/media/dots-bg.svg": "/Antara_Portfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
     "index.html": "/Antara_Portfolio/index.html",
-    "main.6afe7092.css.map": "/Antara_Portfolio/static/css/main.6afe7092.css.map",
-    "main.ff8903cf.js.map": "/Antara_Portfolio/static/js/main.ff8903cf.js.map"
+    "main.83caa039.css.map": "/Antara_Portfolio/static/css/main.83caa039.css.map",
+    "main.2934572c.js.map": "/Antara_Portfolio/static/js/main.2934572c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6afe7092.css",
-    "static/js/main.ff8903cf.js"
+    "static/css/main.83caa039.css",
+    "static/js/main.2934572c.js"
   ]
 }
