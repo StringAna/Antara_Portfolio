@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import Resume from '../../assets/Antara-Tewary-RA.pdf'
+import Resume from '../../assets/Antara_Tewary_Resume.pdf'
 import ResumeMLE from '../../assets/Antara_Tewary_ML.pdf'
 
 const About = () => {
@@ -28,18 +28,17 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hi. My name is Antara Tewary.
-              <br />
-              <br />
-              Currently, I am a graduate student at George Mason Univerisity pursuing Machine Learning concentration, graduating in May 2025.
-              <br/>
-              <br/>
-              I have worked with Mercedes Benz Research and Development India as a Software Consultant, where I was responsible for a 2 dimensional viewer which was used to visualize, annotate, and search drawing files of different file types and from different suppliers.
-              <br />
-              <br/>
-              Currently, I work with the George Mason University Fiscal Services in their Automation Center of Excellence to transform existing business processes into automated workflows. I am responsible for developing and maintaining the automation workflows using UiPath and Power Query. It is absolutely phenomenal to see the end to end process of automation and how it can help in reducing the manual effort and increasing the efficiency of the process.
-              <br />
-              <br/>
+              Hi. My name is Antara.
+              
+              Chatgpt calls me a "trailblazing force in the world of technology", but I settle for - transforming organizations with my unique abilities, seamlessly blending my passion for innovation with an unwavering commitment to creating real-world impact. As a Co-Lead of the Google Developer Group at George Mason University, I not only excel in her coursework with a perfect 4.0 GPA in advanced, niche subjects which demonstrates my discipline and passion for knowledge, but also dedicate myself to building a vibrant community of tech enthusiasts.
+              <br/><br/>
+              With a proven track record in delivering transformative solutions, my expertise spans across cutting-edge domains such as Natural Language Processing, Data Mining, and Machine Learning with PySpark, PyTorch, Recommender Systems, LLMs and more under my belt. My projects, like the Workspace Archiver and SpotiFind, showcase my ability to develop user-centric, efficient, and impactful applications.
+              <br/><br/>
+              But what truly sets me apart is a blend of technical prowess and human empathy. I possess an innate ability to understand and connect with people, allowing me to create solutions that resonate deeply with users' needs. My leadership skills, honed through my role at the Google Developer Group and other experiences, enable me to rally teams and drive projects to success.
+              <br/><br/>
+              Throughout, my journey has been one of perseverance and passion. I doesn't just aim to build impressive tech; I strive to create tools that make a tangible difference in people's everyday lives. My coursework and projects reflect this commitment, as I consistently push the boundaries of what's possible.
+              <br/><br/>
+              I am looking to join an organization where my technical skills, leadership qualities, and dedication to meaningful innovation can make me a invaluable asset.
             </p>
             {/* <ul className="about__list">
               <li>Python</li>
@@ -50,12 +49,12 @@ const About = () => {
               <li>Postgres SQL</li>            
             </ul> */}
             <button className="btn" onClick={downloadResume}>
-              View SWE resume
+              View Resume
             </button>
             &nbsp;
-            <button className="btn" onClick={downloadMLE}>
+            {/* <button className="btn" onClick={downloadMLE}>
               View MLE resume
-            </button>
+            </button> */}
           </div>
         </div>
       </div>

@@ -33,7 +33,8 @@
 
 [data-theme="dark"] {
   /* --first-color: hsl(353, 100%, 65%); */
-  --first-color: #7b5b8a;
+  /* --first-color: #7b5b8a; */
+  --first-color: #ce4cff;
   --title-color: hsl(218, 11%, 69%);
   /* --text-color: hsl(0, 0%, 100%); */
   --text-color:#FFE3DC;

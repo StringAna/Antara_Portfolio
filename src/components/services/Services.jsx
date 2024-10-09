@@ -8,31 +8,38 @@ const data = [
     {
         id: 1,
         image: Image1,
-        title: "Machine Learning",
+        title: "Machine Learning and Artificial Intelligence",
         description:
-            "Crafting machine learning models to help businesses make data-driven decisions",
+            "Pioneering cutting-edge ML and AI solutions using TensorFlow, PyTorch, and scikit-learn to automate processes, enhance efficiency, and solve complex real-world challenges",
     },
     {
         id: 2,
         image: Image2,
-        title: "Web Development",
+        title: "Natural Language Processing",
         description:
-            "Ensuring that that a website meets the correct standards, and also ensuring it's well maintained",
+            " Enabling seamless human-computer interaction and unlocking valuable insights from unstructured text data using advanced techniques like Transformers, LSTMs, and Word Embeddings. Skilled in utilizing NLTK, spaCy, and language modeling to create impactful NLP solutions",
     },
     {
         id: 3,
         image: Image3,
-        title: "Business Automation",
+        title: "Big Data Analytics",
         description:
-            "Automating business processes to reduce manual intervention and increase efficiency",
+            "Harnessing the power of big data using Hadoop, Apache Spark, and MapReduce to unearth hidden patterns and drive business growth. Proficient in using Pandas, NumPy, and Matplotlib to preprocess and analyze vast datasets, demonstrated through projects and schoolwork.",
     },
     {
         id: 4,
         image: Image1,
-        title: "Data Analysis",
+        title: "Automation and Business Intelligence",
         description:
-            "Analyzing data to help businesses make better decisions",
+            "Streamlining workflows and driving operational efficiency through smart automation solutions using UiPath Studio and Orchestrator. Skilled in developing data pipelines and leveraging Power BI and Tableau to transform complex data into actionable insights, showcased in the automation projects at George Mason University Fiscal Services.",
     },
+    {
+        id: 5,
+        image: Image2,
+        title: "Software Development",
+        description:
+            "Crafting tailored software solutions using Python, JavaScript, React, Node.js, and C# (.NET) to align with unique business needs and deliver measurable results. Experienced in developing full-stack web applications at Mercedes-Benz and creating impactful tools like the Workspace Archiver VSCode extension.",
+    }
 ];
 
 const Services = () => {

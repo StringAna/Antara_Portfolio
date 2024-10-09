@@ -63,7 +63,7 @@
   font-size: var(--small-font-size);
   display: inline-block;
   padding: 0.19rem 0.625rem;
-  transform: translateY(-40px);
+  transform: translateY(-60px);
   transition: 0.3s;
 }
 
