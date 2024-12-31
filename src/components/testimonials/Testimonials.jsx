@@ -55,6 +55,15 @@ const Testimonials = () => {
       comment:
         'I was beyond impressed with Antara from the moment we interviewed her for the Mason Automation Center of Excellence at George Mason University. She has the perfect combination of technical, analytical, and interpersonal skills. Her passion is infectious and her curiosity for understanding the why behind the work and processes we were automating was wonderful to see. She will be a rockstar of an asset at any company who hires her after graduation, and I am excited to follow her career. I am so happy I got to work with her at George Mason.',
     },
+    {
+      id: 6,
+      image:
+        'https://media.licdn.com/dms/image/v2/C4D03AQFfaFAjwPZU-Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1643813488087?e=1733961600&v=beta&t=3UGmUGPlJvbJ3QAHEGecvMG1QTBk8VUAOXHJryITqzc',
+      title: 'Omprakash Bansal',
+      subtitle: 'Senior Program Manager at Mercedes Benz Research and Development India',
+      comment:
+        'I am pleased to recommend Antara, whom I managed during her time at Mercedes Benz. From the moment Antara joined our team as a fresh graduate, I was struck by her infectious enthusiasm, keen intellect, and unwavering commitment to excellence. Antara has grown and flourished over her two years at Mercedes, where she tackled every challenge with a positive attitude and a hunger to learn, quickly establishing herself as an indispensable team member. Her technical acumen was remarkable—she had a deep understanding of front-end and back-end technologies and an incredible knack for leveraging these skills to solve complex problems. But what set Antara apart is her ability to see beyond the code. She approached every project holistically, always considering how her technical solutions can streamline processes, enhance user experiences, and drive meaningful business outcomes.One of Antara\'s most impressive qualities is her ability to bridge the technical and human gap. She translates complex technical concepts into compelling narratives that engage and inspire her colleagues. Whether she was collaborating with our global counterparts, mentoring new team members, or presenting at workshops and events, Antara brought people together and fostered a sense of shared purpose. However, Antara\'s contributions extended far beyond her projects. She is a true team player, always ready to lend a helping hand or take on additional responsibilities. Her warm, approachable demeanour and gift for clear communication make her a sought-after mentor for new joiners and a persuasive presenter in workshops and events.As Antara embarks on her next chapter, I have no doubt that she will continue to make a profound impact wherever she goes. She has been an absolute asset to Mercedes Benz; any team would be lucky to have her.',
+    }
   ];
 
   return (
