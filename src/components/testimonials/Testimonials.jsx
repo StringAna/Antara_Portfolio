@@ -58,7 +58,7 @@ const Testimonials = () => {
     {
       id: 6,
       image:
-        'https://media.licdn.com/dms/image/v2/C4D03AQFfaFAjwPZU-Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1643813488087?e=1733961600&v=beta&t=3UGmUGPlJvbJ3QAHEGecvMG1QTBk8VUAOXHJryITqzc',
+        '',
       title: 'Omprakash Bansal',
       subtitle: 'Senior Program Manager at Mercedes Benz Research and Development India',
       comment:
